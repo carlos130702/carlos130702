@@ -30,3 +30,20 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos130702"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/carlos130702/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=carlos130702&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/carlos130702?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
