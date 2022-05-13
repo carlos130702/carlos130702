@@ -34,16 +34,21 @@
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos130702"/>
-</div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=carlos130702&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+
+<p align="center">
+<a href="https://github.com/David-lp-ops">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos130702&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>
+  
+</a>
+</p>
+
+
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/carlos130702/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=carlos130702&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/carlos130702?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
