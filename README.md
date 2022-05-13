@@ -24,4 +24,4 @@
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular&logoColor=ff9100)&nbsp;
     
 ## Github Analytics ⚙️
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlos130702=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
