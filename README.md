@@ -23,6 +23,10 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=FF0000)&nbsp;
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular&logoColor=ff9100)&nbsp;
     
-## Github Analytics ⚙️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos130702&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia)
+## Github Analytics ⚙️  
+<p align="center">
+<a href="https://github.com/carlos130702">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos130702&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
