@@ -22,3 +22,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=FF0000)&nbsp;
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular&logoColor=ff9100)&nbsp;
+    
+## Github Analytics ⚙️
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
