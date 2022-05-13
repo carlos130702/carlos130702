@@ -30,12 +30,12 @@
 <p align="center">
 <a href="https://github.com/David-lp-ops">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos130702&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>
-  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>  
 </a>
 </p>
 
 ## Actions🔭
+	
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-user-contribution.svg" />
 </div>
