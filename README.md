@@ -24,15 +24,6 @@
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-05122A?style=flat&logo=angular&logoColor=ff9100)&nbsp;
     
 ## Github Analytics ⚙️  
-<p align="center">
-<a href="https://github.com/carlos130702">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos130702&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-# 🔭Actions
-
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=carlos130702&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
@@ -44,6 +35,7 @@
 </a>
 </p>
 
+# 🔭Actions
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-contribution-grid-snake.svg" />
