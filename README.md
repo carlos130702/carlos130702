@@ -26,3 +26,4 @@
 ## Github Analytics ⚙️
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos130702)](https://github.com/carlos130702/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos130702&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia)
