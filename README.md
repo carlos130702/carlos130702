@@ -28,7 +28,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=carlos130702&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <p align="center">
-<a href="https://github.com/David-lp-ops">
+<a href="https://github.com/carlos130702">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos130702&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos130702&layout=compact&langs_count=8&theme=algolia"/>  
 </a>
