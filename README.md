@@ -39,6 +39,10 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-user-contribution.svg" />
 </div>
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=carlos130702&theme=github"/>
-</div>
+
+	## Contact With Me 💼
+
+<p align="center">
+<a href="https://www.linkedin.com/in/carlosleonrupay"><img src="https://img.shields.io/badge/-Carlos%20Leon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:carlosleonrupay@gmail.com"><img src="https://img.shields.io/badge/-carlosleonrupay@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
