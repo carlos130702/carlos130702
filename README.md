@@ -37,10 +37,10 @@
 ## Actions🔭
 	
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-user-contribution.svg" />
+<img src="https://cdn.jsdelivr.net/gh/carlos130702/carlos130702/assets/github-user-contribution.svg" />
 </div>
 
-	## Contact With Me 💼
+## Contact With Me 💼
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlosleonrupay"><img src="https://img.shields.io/badge/-Carlos%20Leon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
