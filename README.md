@@ -6,7 +6,7 @@
 
 ## About Me 🧐
 
-8th cycle student of Software Engineering at the Peruvian University of Applied Sciences. I am a person who likes challenges, learn new technologies, and constantly grow as a professional.
+10th cycle student of Software Engineering at the Peruvian University of Applied Sciences. I am a person who likes challenges, learn new technologies, and constantly grow as a professional.
 
 
 ## Tech Stack 🛠️
